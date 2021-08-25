@@ -1,1 +1,3 @@
-# guide-bot
+# Guide Bot
+# For d.js
+# By Piffis
